@@ -10,3 +10,6 @@
     git status -- to check files status in git 
     git add . -- to add all changes at once
 !>
+ Hi there 👋
+<br>
+This is now an updated git demo file with new line
